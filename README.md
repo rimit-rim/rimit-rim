@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2 align="center">HI, I'M SURIM 👋</h2>
 
-<!--
-**rimit-rim/rimit-rim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🦾 Team: VLAssom</h3>
+<p align="center">
+👉 <a href="https://youtube.com/@vlassom">YouTube</a> ·
+<a href="https://www.instagram.com/vla_ssom/">Instagram</a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">✉️ Contact me</h3>
+<p align="center">
+E-mail: yeom.surim@gmail.com<br/>
+LinkedIn: <a href="https://www.linkedin.com/in/surim-yeom/">@surim-yeom</a>
+</p>
